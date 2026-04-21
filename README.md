@@ -1,3 +1,16 @@
+# Forked from https://github.com/forrestchang/andrej-karpathy-skills/
+# I used Forrest's as a strong basis and then added:
+# 1. Autonomous run instructions
+# 2. Progress/memory instructions
+# 3. Major destruction protection (dont drop db tables, delete gits etc)
+# 4. Code comments
+# 5. Updates so Claude Opus 4.7 likes it more 🙂
+
+
+
+# All of the above is from the original repo, I just updated CLAUDE.md
+
+
 # Karpathy-Inspired Claude Code Guidelines
 
 > Check out my new project [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.
